@@ -2,7 +2,7 @@
 
 ---
 
-In this code repository I'll be posting my solutions for the book's problems.
+In this code repository I'll be posting my solutions for the book's problems. Some of my solutions include more of what they asked for.
 The book can be purchased [here](https://www.amazon.com/Introduction-Computing-Using-Python-Application-ebook/dp/B01AKSZC9U/ref=sr_1_1?dchild=1&keywords=introduction+to+computing+using+python&qid=1605135281&sr=8-1).
 
 ---
